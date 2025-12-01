@@ -1,0 +1,61 @@
+ProjectID,ProjectName,Department,Manager,TaskName,TaskStatus,Priority,RiskLevel,EstimatedHours,ActualHours,EstimatedCost,ActualCost,StartDate,EndDate
+P001,Website Redesign,IT,Alice Johnson,UI Mockups,Completed,High,Low,20,18,3000,2800,2024-01-05,2024-01-20
+P001,Website Redesign,IT,Alice Johnson,Frontend Development,In Progress,High,Medium,60,45,9000,7000,2024-01-21,2024-03-15
+P001,Website Redesign,IT,Alice Johnson,Backend Integration,Not Started,Medium,Medium,50,0,7500,0,2024-03-16,2024-05-01
+P002,CRM Upgrade,Sales,Mark Davis,Requirement Gathering,Completed,High,Low,25,22,4000,3800,2024-01-10,2024-01-30
+P002,CRM Upgrade,Sales,Mark Davis,Database Migration,In Progress,High,High,40,28,6000,4300,2024-02-01,2024-03-10
+P002,CRM Upgrade,Sales,Mark Davis,User Training,Not Started,Low,Low,15,0,2000,0,2024-03-15,2024-04-01
+P003,Mobile App Launch,Marketing,Sarah Clark,Market Research,Completed,Medium,Low,30,25,3500,3300,2024-01-12,2024-02-05
+P003,Mobile App Launch,Marketing,Sarah Clark,Ad Campaign Design,Completed,High,Medium,45,40,5000,4800,2024-02-06,2024-03-01
+P003,Mobile App Launch,Marketing,Sarah Clark,Social Media Ads,In Progress,High,High,50,33,7000,4500,2024-03-02,2024-04-10
+P004,Data Center Upgrade,IT,John Carter,Server Installation,Completed,High,High,70,65,12000,11000,2024-01-03,2024-02-15
+P004,Data Center Upgrade,IT,John Carter,Network Cabling,In Progress,Medium,Medium,40,28,6000,4500,2024-02-16,2024-03-25
+P004,Data Center Upgrade,IT,John Carter,Security Testing,Not Started,High,High,35,0,5000,0,2024-03-26,2024-05-01
+P005,HR System Rollout,HR,Emily White,Employee Data Migration,Completed,Medium,Low,25,20,3000,2800,2024-01-15,2024-02-01
+P005,HR System Rollout,HR,Emily White,User Access Setup,In Progress,Low,Low,20,12,2500,1500,2024-02-02,2024-02-20
+P005,HR System Rollout,HR,Emily White,Training Workshops,Not Started,Medium,Medium,18,0,1800,0,2024-02-21,2024-03-10
+P006,Finance Automation,Finance,David Lee,Invoice Module,Completed,High,High,40,38,9000,8500,2024-01-10,2024-02-05
+P006,Finance Automation,Finance,David Lee,Payment Gateway Integration,In Progress,High,Medium,60,45,11000,9000,2024-02-06,2024-04-01
+P006,Finance Automation,Finance,David Lee,Audit Report Automation,Not Started,Low,Low,30,0,4000,0,2024-04-02,2024-05-01
+P007,Inventory Optimization,Operations,Laura Green,Warehouse Study,Completed,Medium,Low,20,18,2500,2400,2024-01-08,2024-01-30
+P007,Inventory Optimization,Operations,Laura Green,Process Redesign,In Progress,Medium,Medium,35,20,4500,3000,2024-01-31,2024-03-01
+P007,Inventory Optimization,Operations,Laura Green,Automation Pilot,Not Started,High,High,50,0,8000,0,2024-03-02,2024-04-15
+P008,Brand Awareness Campaign,Marketing,James Wright,Logo Redesign,Completed,Low,Low,15,12,2000,1800,2024-01-05,2024-01-20
+P008,Brand Awareness Campaign,Marketing,James Wright,Digital Ads,In Progress,High,Medium,40,28,5000,3600,2024-01-21,2024-03-01
+P008,Brand Awareness Campaign,Marketing,James Wright,Event Management,Not Started,Medium,High,30,0,4000,0,2024-03-02,2024-04-05
+P009,Customer Portal,IT,Olivia Parks,UI/UX Design,Completed,High,Low,25,20,3500,3000,2024-01-09,2024-01-28
+P009,Customer Portal,IT,Olivia Parks,API Development,In Progress,High,Medium,55,40,8000,6000,2024-01-29,2024-03-10
+P009,Customer Portal,IT,Olivia Parks,Testing & QA,Not Started,Medium,High,35,0,4500,0,2024-03-11,2024-04-20
+P010,Cloud Migration,IT,Michael Adams,Cloud Setup,Completed,Medium,High,40,35,7500,7200,2024-01-07,2024-02-10
+P010,Cloud Migration,IT,Michael Adams,App Migration,In Progress,High,High,60,44,10000,8500,2024-02-11,2024-04-01
+P010,Cloud Migration,IT,Michael Adams,Performance Testing,Not Started,Medium,Medium,30,0,4000,0,2024-04-02,2024-05-10
+P011,ERP Implementation,Operations,Steven Hall,Module Customization,Completed,High,Medium,50,47,9000,8800,2024-01-15,2024-02-20
+P011,ERP Implementation,Operations,Steven Hall,Integration Testing,In Progress,High,High,40,25,7000,4500,2024-02-21,2024-03-30
+P011,ERP Implementation,Operations,Steven Hall,User Training,Not Started,Low,Low,25,0,3000,0,2024-04-01,2024-04-30
+P012,AI Chatbot,IT,Alice Johnson,Intent Design,Completed,Medium,Low,20,18,2000,1900,2024-01-10,2024-01-30
+P012,AI Chatbot,IT,Alice Johnson,ML Model Training,In Progress,High,Medium,55,35,8000,6000,2024-02-01,2024-03-15
+P012,AI Chatbot,IT,Alice Johnson,API Deployment,Not Started,High,High,40,0,5000,0,2024-03-16,2024-04-25
+P013,Office Renovation,Admin,Laura Green,Floor Planning,Completed,Low,Low,12,10,1500,1400,2024-01-05,2024-01-18
+P013,Office Renovation,Admin,Laura Green,Furniture Procurement,In Progress,Medium,Medium,25,15,4000,2500,2024-01-19,2024-02-10
+P013,Office Renovation,Admin,Laura Green,Renovation Work,Not Started,High,High,60,0,12000,0,2024-02-11,2024-04-01
+P014,Data Analytics Setup,Finance,David Lee,Dashboard Design,Completed,Medium,Low,22,20,3000,2700,2024-01-10,2024-01-28
+P014,Data Analytics Setup,Finance,David Lee,ETL Pipeline,In Progress,High,Medium,40,25,7000,4500,2024-01-29,2024-03-05
+P014,Data Analytics Setup,Finance,David Lee,Data Validation,Not Started,Low,Low,30,0,3500,0,2024-03-06,2024-04-10
+P015,Vendor Portal,IT,John Carter,Requirement Study,Completed,Low,Low,18,15,2000,1800,2024-01-06,2024-01-20
+P015,Vendor Portal,IT,John Carter,Portal Development,In Progress,High,High,65,40,12000,8500,2024-01-21,2024-03-25
+P015,Vendor Portal,IT,John Carter,Beta Testing,Not Started,Medium,Medium,30,0,3500,0,2024-03-26,2024-04-30
+P016,Social Media Analytics,Marketing,Sarah Clark,Analytics Setup,Completed,Medium,Low,20,19,2500,2300,2024-01-10,2024-01-30
+P016,Social Media Analytics,Marketing,Sarah Clark,Content Tracking,In Progress,Medium,Medium,35,20,4500,2800,2024-02-01,2024-03-01
+P016,Social Media Analytics,Marketing,Sarah Clark,User Insights Study,Not Started,High,High,40,0,5000,0,2024-03-02,2024-04-10
+P017,Sales Forecasting AI,Sales,Mark Davis,Data Preparation,Completed,High,Medium,30,28,4000,3800,2024-01-07,2024-01-30
+P017,Sales Forecasting AI,Sales,Mark Davis,Model Training,In Progress,High,High,55,40,8000,6500,2024-02-01,2024-03-20
+P017,Sales Forecasting AI,Sales,Mark Davis,Dashboard Development,Not Started,Medium,Low,30,0,3500,0,2024-03-21,2024-04-30
+P018,Warehouse Automation,Operations,Steven Hall,Conveyor Setup,Completed,High,High,60,57,10000,9500,2024-01-05,2024-02-20
+P018,Warehouse Automation,Operations,Steven Hall,Robot Setup,In Progress,High,High,70,52,15000,11500,2024-02-21,2024-04-10
+P018,Warehouse Automation,Operations,Steven Hall,System Testing,Not Started,Medium,Medium,40,0,5000,0,2024-04-11,2024-05-15
+P019,Email Marketing Automation,Marketing,James Wright,Template Design,Completed,Low,Low,15,13,1800,1700,2024-01-09,2024-01-25
+P019,Email Marketing Automation,Marketing,James Wright,Segmentation Setup,In Progress,Medium,Medium,25,15,2500,1800,2024-01-26,2024-02-15
+P019,Email Marketing Automation,Marketing,James Wright,Campaign Launch,Not Started,High,High,30,0,3500,0,2024-02-16,2024-03-10
+P020,Document Management System,HR,Emily White,Requirement Gathering,Completed,Low,Low,18,16,2000,1800,2024-01-08,2024-01-25
+P020,Document Management System,HR,Emily White,System Design,In Progress,Medium,Medium,30,20,3500,2500,2024-01-26,2024-02-20
+P020,Document Management System,HR,Emily White,User Training,Not Started,Low,Low,20,0,2000,0,2024-02-21,2024-03-10
